@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.025cf7a3.css",
+    "main.css": "/static/css/main.99761a3f.css",
     "main.js": "/static/js/main.3843f0b8.js",
     "static/js/787.60bc7a3c.chunk.js": "/static/js/787.60bc7a3c.chunk.js",
     "static/media/fundo-login.jpeg": "/static/media/fundo-login.4c26565e9ec1c667662e.jpeg",
@@ -21,12 +21,12 @@
     "static/media/bx-lock.svg": "/static/media/bx-lock.9ac9f41660beea82de739b6d992fc5b3.svg",
     "index.html": "/index.html",
     "static/media/bx-user.svg": "/static/media/bx-user.bae8b272ea8a71f8e6a4cf2346fcc196.svg",
-    "main.025cf7a3.css.map": "/static/css/main.025cf7a3.css.map",
+    "main.99761a3f.css.map": "/static/css/main.99761a3f.css.map",
     "main.3843f0b8.js.map": "/static/js/main.3843f0b8.js.map",
     "787.60bc7a3c.chunk.js.map": "/static/js/787.60bc7a3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.025cf7a3.css",
+    "static/css/main.99761a3f.css",
     "static/js/main.3843f0b8.js"
   ]
 }
